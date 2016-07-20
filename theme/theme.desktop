@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=theme
+Exec=theme
+Icon=theme/theme.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

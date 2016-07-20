@@ -1,0 +1,17 @@
+{
+    "name": "theme.liu-xiao-guo",
+    "description": "description of theme",
+    "architecture": "@CLICK_ARCH@",
+    "title": "theme",
+    "hooks": {
+        "theme": {
+            "apparmor": "theme/theme.apparmor",
+            "desktop":  "theme/theme.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
